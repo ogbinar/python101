@@ -1,3 +1,6 @@
+
+[thesword]: img/O-Comic-Zelda-Sword.gif
+
 #python101
 
 1. open https://colab.research.google.com/
