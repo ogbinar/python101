@@ -1,5 +1,5 @@
 
-[thesword]: img/O-Comic-Zelda-Sword.gif
+![Alt Text](img/O-Comic-Zelda-Sword.gif)
 
 #python101
 
